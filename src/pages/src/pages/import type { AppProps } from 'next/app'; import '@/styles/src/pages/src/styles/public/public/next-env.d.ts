@@ -1,0 +1,1 @@
+file:///%20%3Creference%20types=%22next%22%20/%3E///%20%3Creference%20types=%22next/image-types/global%22%20/%3E//%20NOTE:%20This%20file%20should%20not%20be%20edited//%20see%20https://nextjs.org/docs/basic-features/typescript%20for%20more%20information.
